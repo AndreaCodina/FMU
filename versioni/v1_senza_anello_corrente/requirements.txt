@@ -1,0 +1,7 @@
+numpy
+scipy
+pandas
+matplotlib
+PySide6
+pythonfmu   # solo per costruire la FMU (build_fmu.py)
+fmpy        # solo per testare la FMU
